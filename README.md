@@ -33,7 +33,7 @@ This project uses **HTML**, **PHP**, **MySQL**, and **Bootstrap** to provide an 
 
 ### Add Product
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Student-Average-Calculator/blob/81f6d42481c75718b563b140fd7f475c3765bc1c/images/exp1.png" alt="image alt"/>
+  <img src="https://github.com/BouglaceMarouane/Stock-Management/blob/3fbc68bc08b45e4c280da67bc7f96e668d18bd40/images/add_product.png" alt="image alt"/>
   <br>
   <em>Add Product - Fill out the form to add a new product to the inventory.</em>
 </p><br>
