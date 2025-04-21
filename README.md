@@ -75,16 +75,14 @@ This project uses **HTML**, **PHP**, **MySQL**, and **Bootstrap** to provide an 
    ```
 
 3. **📦 Configure the Database**:
-   ```
-    Import the db.sql file into your MySQL server.
-    Make sure that the login information in the PHP files (e.g. add ProduitProfile.php, modify ProduitProfile.php) matches your local configuration.
-   ```
+
+  - Import the db.sql file into your MySQL server.
+  - Make sure that the login information in the PHP files (e.g. add ProduitProfile.php, modify ProduitProfile.php) matches your local configuration.
 
 4. **🌐 Start a local server** to view the project:
-   ```
-    Place the project in the root folder of your local server (e.g. htdocs for XAMPP).
-    Access the application via http://localhost/stock-management.
-   ```
+
+  - Place the project in the root folder of your local server (e.g. htdocs for XAMPP).
+  - Access the application via http://localhost/stock-management.
    
    ---
 
