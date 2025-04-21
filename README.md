@@ -62,3 +62,30 @@ This project uses **HTML**, **PHP**, **MySQL**, and **Bootstrap** to provide an 
 - 🔄 **CRUD Operations**: Mastering Create, Read, Update, Delete operations on a database.
 
 ---
+
+## ***⚙️ étapes d'installation :***
+
+1. **📥 Clone the repository** to your machine or download the ZIP files:
+   ```
+   git clone https://github.com/<your-username>/<repo-name>.git
+   ```
+2. **📂 Navigate to the project folder** and open it in Visual Studio Code:
+   ```
+   cd <repo-name> && code .
+   ```
+
+3. **📦 Configure the Database**:
+   ```
+    Import the db.sql file into your MySQL server.
+    Make sure that the login information in the PHP files (e.g. add ProduitProfile.php, modify ProduitProfile.php) matches your local configuration.
+   ```
+
+4. **🌐 Start a local server** to view the project:
+   ```
+    Place the project in the root folder of your local server (e.g. htdocs for XAMPP).
+    Access the application via http://localhost/stock-management.
+   ```
+   
+   ---
+
+   
