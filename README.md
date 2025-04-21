@@ -26,7 +26,7 @@ This project uses **HTML**, **PHP**, **MySQL**, and **Bootstrap** to provide an 
 
 ### Product List
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Student-Average-Calculator/blob/81f6d42481c75718b563b140fd7f475c3765bc1c/images/home.png" alt="image alt"/>
+  <img src="https://github.com/BouglaceMarouane/Stock-Management/blob/5d6ad0d911907d90185601c370acb968bdfda16e/images/product_liste.png" alt="image alt"/>
   <br>
   <em>Product List - View all products with key details like name, category, price, and stock level.</em>
 </p><br>
