@@ -16,8 +16,53 @@ This project uses **HTML**, **PHP**, **MySQL**, and **Bootstrap** to provide an 
 
 ---
 
-## 🛠️ Technologies Used
+## ***🛠️ Technologies Used :***
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-red?logo=Bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-8.1-blue?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-8.0-gold?logo=mysql&logoColor=white)
+
+---
+
+## ***📸 Screenshots :***
+
+### 📝 Product List
+![Product List](https://via.placeholder.com/800x400?text=Product+List)
+
+### ➕ Add Product
+![Add Product](https://via.placeholder.com/800x400?text=Add+Product)
+
+### ✏️ Edit Product
+![Edit Product](https://via.placeholder.com/800x400?text=Edit+Product)
+
+### 🗑️ Delete Product
+![Delete Product](https://via.placeholder.com/800x400?text=Delete+Product)
+
+### 📝 Product List
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/Student-Average-Calculator/blob/81f6d42481c75718b563b140fd7f475c3765bc1c/images/home.png" alt="image alt"/>
+  <br>
+  <em>Product List - View all products with key details like name, category, price, and stock level.</em>
+</p><br>
+
+### ➕ Add Product
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/Student-Average-Calculator/blob/81f6d42481c75718b563b140fd7f475c3765bc1c/images/exp1.png" alt="image alt"/>
+  <br>
+  <em>Add Product - Fill out the form to add a new product to the inventory.</em>
+</p><br>
+
+### ✏️ Edit Product
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/Student-Average-Calculator/blob/81f6d42481c75718b563b140fd7f475c3765bc1c/images/exp2.png" alt="image alt"/>
+  <br>
+  <em>Edit Product - Modify the details of an existing product and update the database.</em>
+</p><br>
+
+### 🗑️ Delete Product
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/Student-Average-Calculator/blob/81f6d42481c75718b563b140fd7f475c3765bc1c/images/exp2.png" alt="image alt"/>
+  <br>
+  <em>Delete Product - Confirm before removing a product from the inventory.</em>
+</p><br>
+
 
 ---
