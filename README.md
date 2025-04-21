@@ -25,18 +25,6 @@ This project uses **HTML**, **PHP**, **MySQL**, and **Bootstrap** to provide an 
 ## ***📸 Screenshots :***
 
 ### 📝 Product List
-![Product List](https://via.placeholder.com/800x400?text=Product+List)
-
-### ➕ Add Product
-![Add Product](https://via.placeholder.com/800x400?text=Add+Product)
-
-### ✏️ Edit Product
-![Edit Product](https://via.placeholder.com/800x400?text=Edit+Product)
-
-### 🗑️ Delete Product
-![Delete Product](https://via.placeholder.com/800x400?text=Delete+Product)
-
-### 📝 Product List
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Student-Average-Calculator/blob/81f6d42481c75718b563b140fd7f475c3765bc1c/images/home.png" alt="image alt"/>
   <br>
