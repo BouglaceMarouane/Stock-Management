@@ -40,7 +40,7 @@ This project uses **HTML**, **PHP**, **MySQL**, and **Bootstrap** to provide an 
 
 ### Edit Product
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Student-Average-Calculator/blob/81f6d42481c75718b563b140fd7f475c3765bc1c/images/exp2.png" alt="image alt"/>
+  <img src="https://github.com/BouglaceMarouane/Stock-Management/blob/529b7df15f65bcbfc2c9b397b337edfe7cc79ab2/images/edit_product.png" alt="image alt"/>
   <br>
   <em>Edit Product - Modify the details of an existing product and update the database.</em>
 </p><br>
