@@ -109,6 +109,6 @@ If you like this project, don't forget to leave a ⭐ on GitHub, by starring you
 - 🌍 LinkedIn: [Marouane Bouglace Linkedin](https://www.linkedin.com/in/marouane-bouglace-68b17333b/)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&height=100&section=footer"/>
 </p>
 <br/>
