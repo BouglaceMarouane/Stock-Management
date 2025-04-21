@@ -47,7 +47,7 @@ This project uses **HTML**, **PHP**, **MySQL**, and **Bootstrap** to provide an 
 
 ### Delete Product
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Student-Average-Calculator/blob/81f6d42481c75718b563b140fd7f475c3765bc1c/images/exp2.png" alt="image alt"/>
+  <img src="https://github.com/BouglaceMarouane/Stock-Management/blob/ff414f5411889b3f2b18b56dcdcf9e7007444a2f/images/delete.png" alt="image alt"/>
   <br>
   <em>Delete Product - Confirm before removing a product from the inventory.</em>
 </p><br>
