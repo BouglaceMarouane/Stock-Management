@@ -24,28 +24,28 @@ This project uses **HTML**, **PHP**, **MySQL**, and **Bootstrap** to provide an 
 
 ## ***📸 Screenshots :***
 
-### 📝 Product List
+### Product List
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Student-Average-Calculator/blob/81f6d42481c75718b563b140fd7f475c3765bc1c/images/home.png" alt="image alt"/>
   <br>
   <em>Product List - View all products with key details like name, category, price, and stock level.</em>
 </p><br>
 
-### ➕ Add Product
+### Add Product
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Student-Average-Calculator/blob/81f6d42481c75718b563b140fd7f475c3765bc1c/images/exp1.png" alt="image alt"/>
   <br>
   <em>Add Product - Fill out the form to add a new product to the inventory.</em>
 </p><br>
 
-### ✏️ Edit Product
+### Edit Product
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Student-Average-Calculator/blob/81f6d42481c75718b563b140fd7f475c3765bc1c/images/exp2.png" alt="image alt"/>
   <br>
   <em>Edit Product - Modify the details of an existing product and update the database.</em>
 </p><br>
 
-### 🗑️ Delete Product
+### Delete Product
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Student-Average-Calculator/blob/81f6d42481c75718b563b140fd7f475c3765bc1c/images/exp2.png" alt="image alt"/>
   <br>
