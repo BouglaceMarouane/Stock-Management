@@ -52,5 +52,13 @@ This project uses **HTML**, **PHP**, **MySQL**, and **Bootstrap** to provide an 
   <em>Delete Product - Confirm before removing a product from the inventory.</em>
 </p><br>
 
+---
+
+## ***📚 What I Learned from This Project :***
+
+- 🔗 **Database Connection**: Using PDO to securely interact with a MySQL database.
+- ✅ **Data Validation**: Implementing server-side validation to ensure data integrity.
+- 🖥️ **Dynamic UI Creation**: Designing modern and responsive interfaces with Bootstrap.
+- 🔄 **CRUD Operations**: Mastering Create, Read, Update, Delete operations on a database.
 
 ---
