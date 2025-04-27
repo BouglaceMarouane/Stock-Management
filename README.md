@@ -63,7 +63,7 @@ This project uses **HTML**, **PHP**, **MySQL**, and **Bootstrap** to provide an 
 
 ---
 
-## ***⚙️ étapes d'installation :***
+## ***⚙️ Installation Steps :***
 
 1. **📥 Clone the repository** to your machine or download the ZIP files:
    ```
