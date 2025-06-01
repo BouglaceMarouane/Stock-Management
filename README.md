@@ -14,7 +14,6 @@
 
 
 
-
 ## ***✨ Project Description :***
 Welcome to **Stock Management**, a web application designed to efficiently manage inventory products.  
 This project uses **HTML**, **PHP**, **MySQL**, and **Bootstrap** to provide an intuitive user interface and powerful features for inventory control.
