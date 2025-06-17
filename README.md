@@ -1,7 +1,6 @@
 
 
 
-
 # 🛒 **Stock Management – Dynamic Web Application**
 
 ## ***✨ Project Description :***
